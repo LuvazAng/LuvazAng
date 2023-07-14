@@ -9,13 +9,20 @@
 
 
 ## Sobre mi
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/)
 - :man: Mi nombre es Luis Vazquez
 - :notebook: Soy estudiante de **_Ingeniería en sistemas comutacionales_** 
 - :computer: Mis interes son el desarrollo **front-end, back-end y ciberseguridad** 
 - :art: Mis hobbies en mis tiempos libres son diseñar 
 ### Contacto
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/) [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/)
+
 - - -
 ### Tecnologías en las que he trabajado
-[![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact)](https://github.com/LuvazAng/github-readme-stats)
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Lenguajes mas utilizados">
+<img height=210 src="https://github-readme-stats-git-master-LuvazAng.vercel.app/api/top-langs/?username=LuvazAng&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=210 src="https://github-readme-stats-git-master-LuvazAng.vercel.app/api?username=LuvazAng&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
+</a> 
+</div>
