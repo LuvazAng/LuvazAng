@@ -18,11 +18,4 @@
 
 - - -
 ### Tecnologías en las que he trabajado
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Lenguajes mas utilizados">
-<img height=210 src="https://github-readme-stats-git-master-LuvazAng.vercel.app/api/top-langs/?username=LuvazAng&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=210 src="https://github-readme-stats-git-master-LuvazAng.vercel.app/api?username=LuvazAng&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
-</a> 
-</div>
+[![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact)](https://github.com/LuvazAng/github-readme-stats)
