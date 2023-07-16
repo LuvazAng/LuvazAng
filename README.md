@@ -18,7 +18,10 @@
 
 - - -
 ## Tecnologías en las que he trabajado
-[![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact)](https://github.com/LuvazAng/github-readme-stats)
+<div align="center">
+  [![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact)](https://github.com/LuvazAng/github-readme-stats)
+</div>
+
 
 ## Cursos
 <div align="center">    
