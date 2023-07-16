@@ -18,8 +18,12 @@
 
 - - -
 ## Tecnologías en las que he trabajado
+
+[![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact)](https://github.com/LuvazAng/github-readme-stats)
+
 <div align="center">
-  [![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact)](https://github.com/LuvazAng/github-readme-stats)
+<a href="https://github.com/LuvazAng/github-readme-stats" title="Most Used Language">
+<img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact" alt="Top langs" />
 </div>
 
 
