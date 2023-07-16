@@ -20,7 +20,7 @@
 ## Tecnologías en las que he trabajado
 
 <div align="center">
-<a href="https://github.com/LuvazAng/github-readme-stats" title="Most Used Language">
+<a href="https://github.com/LuvazAng/github-readme-stats" title="Lenguajes más usados">
 <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact" alt="Top langs" />
 </div>
 
