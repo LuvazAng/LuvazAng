@@ -22,5 +22,5 @@
 
 ## Cursos
 <div align="center">    
-<a href="https://app.aluracursos.com/program/certificate/68d30cda-a93d-4dd2-9407-1cd12bebdb83" target="_blank"><img aling="center" width="110" height="110" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png">
+<a href="https://app.aluracursos.com/program/certificate/68d30cda-a93d-4dd2-9407-1cd12bebdb83" target="_blank"><img aling="center" width="150" height="150" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png">
 </di
