@@ -14,8 +14,13 @@
 - :notebook: Soy estudiante de **_Ingeniería en sistemas comutacionales_** 
 - :computer: Mis interes son el desarrollo **front-end, back-end y ciberseguridad** 
 - :art: Mis hobbies en mis tiempos libres son realizar diseños UI 
-### Contacto
+## Contacto
 
 - - -
-### Tecnologías en las que he trabajado
+## Tecnologías en las que he trabajado
 [![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvazAng&layout=compact)](https://github.com/LuvazAng/github-readme-stats)
+
+## Cursos
+<div align="center">    
+<a href="https://app.aluracursos.com/program/certificate/68d30cda-a93d-4dd2-9407-1cd12bebdb83" target="_blank"><img aling="center" width="110" height="110" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png">
+</di
