@@ -9,7 +9,8 @@
 
 
 ## Sobre mi
-[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-542394292/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/)
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-542394292/)) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/)
 - :man: Mi nombre es Luis Vazquez
 - :notebook: Soy estudiante de **_Ingeniería en sistemas comutacionales_** 
 - :computer: Mis interes son el desarrollo **front-end, back-end y ciberseguridad** 
