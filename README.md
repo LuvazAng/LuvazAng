@@ -9,8 +9,8 @@
 
 
 ## Sobre mi
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luvazang) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luisvazquez1757@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luvazang) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisvazquez1757@gmail.com)
 - :man: Mi nombre es Luis Vazquez
 - :notebook: Soy estudiante de **_Ingeniería en sistemas comutacionales_** 
 - :computer: Mis interes son el desarrollo **front-end, back-end y ciberseguridad** 
