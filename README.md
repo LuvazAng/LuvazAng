@@ -5,11 +5,10 @@
 <div align="center">
 <h2 align="center" style="color:white; font-size: 28px">Computer Systems Engineer</h2>
 <h3>Connect with Me</h3>
-<a href="https://www.luvazang.dev"><img src="https://img.shields.io/badge/-luvazang.dev-b0672d?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/luvazang/"><img src="https://img.shields.io/badge/-Linkedin-0077B5"/></a>
+<a href="https://www.luvazang.dev" target="_blank"><img src="https://img.shields.io/badge/-luvazang.dev-b0672d?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luvazang/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5"/></a>
 <a href="mailto:luisvazquez1757@gmail.com"><img src="https://img.shields.io/badge/-luisvazquez1757@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
-
 
 
 
